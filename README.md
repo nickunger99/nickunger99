@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Nicolas Unger</h1>
+<h1 align="center">Hello everyone! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Nicolas Unger</h1>
 <h3 align="center">A student who loves to code and learn about news tecnologies</h3>
 
 - 👨🏻‍💻 Working at Controller BMS as Junior Systems Technician (System Support and Maintenance).
