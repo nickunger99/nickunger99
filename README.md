@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 Working at Controller BMS as Junior Systems Technician (System Support and Maintenance).
 
-- 🌱 I’m currently studying Front-End (React) and Back-End (Java + Spring Boot).
+- 🌱 I’m currently studying Front-End (React/Angular) and Back-End (Java + Spring Boot).
 
  <div>
   <a href="https://github.com/nickunger99">
